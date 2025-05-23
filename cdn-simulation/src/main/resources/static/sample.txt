@@ -1,0 +1,3 @@
+This is a sample text file for the CDN simulation.
+It will be served by the StaticContentController.
+Cache testing.
